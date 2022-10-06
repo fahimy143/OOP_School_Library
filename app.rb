@@ -35,7 +35,7 @@ class App
     when '2'
       create_teacher
     else
-      puts 'Invalid option'
+      puts 'Invalid option test'
       nil
     end
   end
@@ -144,8 +144,6 @@ class App
       list_rentals_for_person_id
     when '7'
       puts 'Thank you for using this app!'
-    else
-      puts 'Invalid option'
     end
   end
 
