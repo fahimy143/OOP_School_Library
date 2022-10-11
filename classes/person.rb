@@ -1,7 +1,6 @@
-require './nameable'
-require './base_decorator'
-require './capitalize'
-require './trimmer'
+require_relative '../interfaces/nameable'
+require_relative '../decorators/capitalize'
+require_relative '../decorators/trimmer'
 
 class Person < Nameable
   attr_accessor :name, :id, :age, :rentals
