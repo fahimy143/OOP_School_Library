@@ -29,6 +29,11 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@fahimy143](https://github.com/fahimy143)
 - LinkedIn: [Mustafa Fahimy](https://www.linkedin.com/in/mustafa-fahimy-307566236/)
 
+👤 Author **Natasha Tatenda Chirombe**(collaborator)
+GitHub: [@NATASHA-ct]((https://github.com/NATASHA-ct)
+Twitter: [@NatashaChirombe]
+LinkedIn: Natasha Chirombe
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
