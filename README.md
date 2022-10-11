@@ -22,7 +22,7 @@ To get a local copy up and running follow these simple example steps.
 
 [Coming soon]()
 
-## Author
+## Authors
 
 👤 **Mustafa Fahimy**
 
