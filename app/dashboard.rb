@@ -69,6 +69,10 @@ class Dashboard
       create_person
     when '6'
       create_rental
+    when '7'
+      save_data
+      puts 'goodbye!'
+      exit
     else
       puts 'Invalid option'
     end
