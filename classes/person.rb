@@ -5,7 +5,7 @@ require_relative '../decorators/trimmer'
 class Person < Nameable
   attr_accessor :name, :id, :age, :rentals
 
-  def initialize(age, name = 'Unknown', parent_permission: true, id: nill)
+  def initialize(age, name = 'Unknown', parent_permission: true, id: nil)
     super()
     @id = id.nil? ? Random.rand(1...1000) : id
     @name = name
